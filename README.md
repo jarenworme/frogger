@@ -17,6 +17,11 @@ Additionally:
 - White rectangles are cars on road, brown rectangles are logs on water
 - Game runs at 60fps, but gets slightly slower the longer it runs (something to do with MARS)
 
+To download mars, use the MARS file in the repo code
+
+If your pc does not allow you to open it, you can use the following command in the windows command line
+java -jar "C:\Users\<yourusername>\downloads\Mars_Updated.jar"
+
 enjoy!
 ~Jaren
 
