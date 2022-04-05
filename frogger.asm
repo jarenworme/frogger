@@ -1,8 +1,4 @@
 ############################################################################
-# CSC258H5S Winter 2022 Assembly Final Project
-# University of Toronto, St. George
-#
-# Student: Jaren Worme 1007302287
 #
 # Bitmap Display Configuration:
 # - Unit width in pixels: 8
@@ -11,16 +7,13 @@
 # - Display height in pixels: 256
 # - Base Address for Display: 0x10008000 ($gp)
 #
-# Which milestone is reached in this submission?
-# (See the assignment handout for descriptions of the milestones)
-# - Milestone 5
 #
-# easy features: displays lives remaining
-#	         game over screen with retry or quit options
-#	         death animation when the frog loses a life
-#	         have objects in different rows move at different speeds.
-#	         make frog point in the direction it is travelling
-# hard feature: displays score (pts) on the top of the screen	
+# features: displays lives remaining
+#	    game over screen with retry or quit options
+#	    death animation when the frog loses a life
+#	    have objects in different rows move at different speeds.
+#	    make frog point in the direction it is travelling
+# 	    displays score (pts) on the top of the screen	
 #
 # gameplay notes/comments:
 #	game set up so thatfrog dies after three collisions, but wins if he reaches the goal 5 times
