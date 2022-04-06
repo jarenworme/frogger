@@ -9,6 +9,7 @@ There are some features implemented that takes it closer to the original arcade 
 - Produces a short death animation every time a frog dies
 - Objects in different rows move at different speeds
 - Frog points in the direction it is travelling
+- enters a second, harder, cutom level if player wins level 1
 
 Additionally:
 - Game set up so that frog dies after three collisions, but wins if it reaches the goal 5 times
@@ -17,9 +18,10 @@ Additionally:
 - White rectangles are cars on road, brown rectangles are logs on water
 - Game runs at 60fps, but gets slightly slower the longer it runs (something to do with MARS)
 
-To download mars, use the MARS file in the repo code
+To download mars, use the MARS file in the repo code (NOT CREATED BY ME, I PUT IT HERE FOR CONVENIENCE)
 
 If your pc does not allow you to open it, you can use the following command in the windows command line
+
 java -jar "C:\Users\<yourusername>\downloads\Mars_Updated.jar"
 
 enjoy!
