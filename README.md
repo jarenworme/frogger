@@ -1,6 +1,6 @@
 # frogger
 This project is an attempt to recreate the arcade game 'Frogger' from scratch, using the MIPS assembly language.
-I use the MARS 4.5 IDE and anyone wanting to download and test my code can do so! I have outlined the dimensions for the bitmap display in the initial preamble of the .asm file.
+I use the MARS 4.5 ISA and anyone wanting to download and test my code can do so! I have outlined the dimensions for the bitmap display in the initial preamble of the .asm file.
 
 There are some features implemented that takes it closer to the original arcade game, including:
 - Displaying lives remaining
